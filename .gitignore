@@ -1,0 +1,15 @@
+# VS-related (mostly for Windows)
+.vs
+*.sln
+
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# macOS / Xcode
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+.DS_Store
