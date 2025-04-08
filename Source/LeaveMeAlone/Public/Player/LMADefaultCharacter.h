@@ -40,5 +40,8 @@ private:
     float ArmLength = 1400.0f ;
     float FOV = 55.0f ;
     
+    
+    void MoveForward(float Value);
+    void MoveRight(float Value);
 };
 
